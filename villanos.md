@@ -2,3 +2,4 @@
 
 * Dr Doom
 * Resbull
+* Capitán America
